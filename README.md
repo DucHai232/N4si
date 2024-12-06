@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Duchai9201</h1>
 <h3 align="center">A passionate developer</h3>
 
-
-
-- 💬 Ask me about **React, Java, Nodejs**
-
-- 📫 How to reach me **duchai9201@gmail.com**
+- 💬 Languages: **JavaScript, Typescript, Java, ...**
+- 📫 Frameworks and Libs: **React.js, React Native, NextJS, NestJS, Express.js, Java Spring boot**
+- ⚡ Database: **MYSQL, PostgreSQL, MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
