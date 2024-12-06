@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/duchai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="duchai" height="30" width="40" /></a>
+<a href="https://dev.to/hi_lc_d2f04b5b93c651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="duchai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/duc-hai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/duc-hai/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/duchai9201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/duchai9201/" height="30" width="40" /></a>
 </p>
